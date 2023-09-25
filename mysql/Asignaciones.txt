@@ -1,0 +1,70 @@
+
+HU135191: Error pago de cartera 29 & 28
+PaseProduccion_1_3_BNCR_SOA_OR_RealizaTransferencias_v1 -> Excepcion a consulta de numero comprobante
+SC 209662 - IBP - ERROR EN INFORMACION DE COMPROBANTES
+Responsable : Raul Garcia
+Estatus: trabajando, Validación pendiente con Angel para validar configuración correcta
+Prioridad: 2
+Colaboración: Ángel Eduardo Romero Acuña
+
+Consulta Error SOA - Préstamos IB -> v23.0 
+Responsable : Raul Garcia
+Estatus: trabajando, en espera de contestación de SIACC
+Artefacto :
+	- BNCR_SOA_ValidaConsultarLineas_v1.0
+	- /BNCR/BNCR_OSB_ValidaCapPagoCliente_v1/ValidaCapPagoCliente_v1
+Prioridad: 1
+Colaboración: Randy Marcel Belpalme Salas
+SSH:
+	
+BNCR_SOA_OR_InsercionCuentasFavoritas_v2
+BS_PaInsertarCollector_JCA
+Error en DbAdapter
+	ssh -i .ssh/rgarciamo.ppk rgarciamo@10.195.0.10
+	10.1.6.210 1434
+	BS_PaInsertarCollector_JCA
+	CCRUser
+	
+HU 129011 
+	
+
+Propuesta bloqueo/desbloqueo entidades financieras
+Responsable : Kruger
+Estatus: Revisado base de datos por parte de kruger
+Prioridad: 1
+Colaboración: Producción /Yorleny
+
+Error de Transporte con Saliente Canales ModificarLimiteCliente --> Se busca asignación de recurso en Producción
+Responsable : Raul Garica & Giovanny
+Estatus: en espera de asignación de recurso de operador producción.
+Prioridad: 1
+Colaboración: Personal de Producción /Yorleny
+
+Error Afiliar Sinpe Móvil
+Validación de apuntalamiento de servicios en QA/UAT
+Respansable : Raul Garcia
+Estatus: Cerrado
+Prioridad: 1
+Colaboración: Randy Marcel Belpalme Salas
+
+SC 197591 -RE: IBP- al ingresar cuentas favoritas otro banco no se informa del tiempo de activación / RE: BNPRD00111065 Cambios menores - Versión 21.20Login de IB y los órdenes de proceso para hacer swap al proyecto de certificado en azure - HU 95541
+Proyecto: Cuentas Favoritas
+Issue relacionados: Por rollback de tiempo de activación
+Responsable: Enrique Aguilar / Raul Garcia
+Estatus: Encolado
+Prioridad: 3
+Colaboración: Gustavo Zuniga Campos
+
+
+Información de vdis on premise y acceso a sitios de internet ---> Llenar excel de VDIS -> CHristian Gonzalez
+Estatus: Cerrado 
+
+Daili 10:15 para validar actividades
+Estatus Actividad recurrente
+ 
+ Q1w2r3t4
+ 
+ Incidentes septiembre 2023
+ 
+ Qwerty12
+ 
